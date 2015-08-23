@@ -1,0 +1,6 @@
+#lang scheme
+(define (square x)
+    (*xx)
+)
+
+(square 7)
